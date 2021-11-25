@@ -1,0 +1,33 @@
+html {
+	font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
+	font-family: 'Ubuntu Mono', monospace; /* this should be the rest of the output you got from google fonts */
+	background-color: #9ccc9c;
+}
+
+body {
+	width: 600px;
+	margin: 0 auto;
+	background-color: black;
+	padding: 0 20px 20px 20px;
+	border: 10px solid #0e6b0e;	
+	color: #149414;
+}
+h1 {
+	font-size: 60px;
+	text-align: center;
+	margin: 0;
+	padding: 20px 0;
+	text-shadow: 3px 3px 1px #649568;
+}
+
+img {
+	display: block;
+	margin:0 auto;
+}
+
+p, li, a {
+	font-size: 15px;
+	line-height: 2;
+	letter-spacing: 1px;
+	color: #149414;
+}
